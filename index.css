@@ -1,5 +1,28 @@
+body{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
 #encrypted-output {
     width: 10rem;
     height: 10rem;
     border: 2px solid black;
+    margin: 1rem;
+    margin: auto;
+}
+
+textarea {
+    display: block;
+    margin: 1rem auto;
+}
+
+input {
+    display: block;
+    margin: 1rem auto;
+}
+
+button {
+    margin: auto;
+    margin: 1rem;
 }

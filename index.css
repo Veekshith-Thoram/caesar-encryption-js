@@ -14,7 +14,10 @@ body{
 
 textarea {
     display: block;
+    width: 10rem;
+    height: 10rem;
     margin: 1rem auto;
+    resize: none;
 }
 
 input {
